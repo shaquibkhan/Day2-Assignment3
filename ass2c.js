@@ -16,4 +16,4 @@ var signIn = (function () {
     return signIn;
 }());
 var info = new signIn('khan');
-info.get("");
+

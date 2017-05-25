@@ -19,4 +19,4 @@ class signIn{
 	 
 }
 	var info = new signIn('khan');
-	info.get(``);
+	
